@@ -1,2 +1,2 @@
-# craps-game
+# Craps Game
 Plays game of Craps
